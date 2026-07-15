@@ -4,23 +4,16 @@
 
 <h1 align="center">Hi, I'm Ryota Ueki 👋 </h1>
 
-<h3 align="center">
-Master's Student • Medical AI Researcher • Japan 🇯🇵
-</h3>
-
 <p align="center">
-I am a master's student researching <b>Medical Image Analysis</b>, focusing on <b>Chest X-ray Analysis</b>, <b>Deep Learning</b>, and <b>Explainable AI</b>.
+I am a passionate CS student at KUT, researching <b>Medical Image Analysis</b>, focusing on <b>Chest X-ray Analysis</b>, <b>Deep Learning</b>, and <b>Explainable AI</b>. I develop intelligent systems for medical imaging by combining deep learning, computer vision, and large language models. My work focuses on building reliable and generalizable AI solutions for real-world healthcare applications.
 </p>
 
 # 🔬 Research Interests
 
 - 🩻 Medical Image Analysis
-- 🫁 Chest X-ray Analysis
+- 🧠 Neural Network
 - 🤖 Deep Learning
-- 🌍 Domain Adaptation
 - 👁️ Computer Vision
-- 🧠 Vision Transformers (ViT)
-- 💬 Large Language Models (LLMs)
 - 📊 Explainable AI (XAI)
 
 ---
@@ -29,7 +22,6 @@ I am a master's student researching <b>Medical Image Analysis</b>, focusing on <
 
 - Chest X-ray Domain Adaptation
 - Multi-label Chest X-ray Disease Classification
-- LLM-assisted Medical Image Annotation
 - Explainable AI for Medical Imaging
 
 # ⚒️ Languages & Tools 
@@ -98,11 +90,3 @@ I am a master's student researching <b>Medical Image Analysis</b>, focusing on <
 
 --->
 
-# 🎓 Education
-
-**Master's Student**
-
-Graduate School of Kochi University
-
-Research Area:
-Medical Image Analysis, Computer Vision, Deep Learning
